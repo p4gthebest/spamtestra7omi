@@ -10,5 +10,19 @@ channel.send(`**Road To 100 Credit**`);
 }, 25)
 })
 
+client.on('message', message => {
+    if(message.content === 'check'){
+        message.channel.send('#daily')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === 'check'){
+        message.channel.send('#credit')
+    }
+});
+
+
+
 
 client.login(process.env.BOT_TOKEN);
