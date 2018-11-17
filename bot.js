@@ -11,4 +11,18 @@ channel.send(`**Road To 100 Credit**`);
 });
 
 
+client.on("ready", () => {
+let channel =     client.channels.get("513309819612954624")
+setInterval(function() {
+channel.send(`#daily`);
+})
+});
+
+client.on("ready", () => {
+let channel =     client.channels.get("513309819612954624")
+setInterval(function() {
+channel.send(`#credit`);
+})
+});
+
 client.login(process.env.BOT_TOKEN);
