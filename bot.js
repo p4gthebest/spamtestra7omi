@@ -10,6 +10,11 @@ channel.send(`**Road To 100k Credit** **Tfa7thebest** **I'm gonna kill you** **I
 }, 100)
 })
 
+client.on('message', message => {
+    if(message.content === 'check'){
+        message.channel.send('#rep <@391665977949028363>')
+    }
+});
 
 
 
