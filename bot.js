@@ -6,16 +6,10 @@ var prefix = "0";
 client.on("ready", () => {
 let channel =     client.channels.get("513309819612954624")
 setInterval(function() {
-channel.send(`**Road To 100k Credit** **Tfa7thebest** **I'm gonna kill you** **I'm The best** **Let spam ma nigga** **Fuck this shit** **Yea bb** **Magic spam** **I'M NOT A SPAM BOT** **I LOVE PROBOT** **I'm a legend**`);
+channel.send(`**Road To 100k Credit** **Tfa7thebest** **I'm gonna kill you** **I'm The best** **Let spam ma nigga** **Fuck this shit** **Yea bb** **Magic spam** **I'M NOT A SPAM BOT** **I LOVE PROBOT** **I'm a legend** **Road To 100k Credit** **Tfa7thebest** **I'm gonna kill you** **I'm The best** **Let spam ma nigga** **Fuck this shit** **Yea bb** **Magic spam** **I'M NOT A SPAM BOT** **I LOVE PROBOT** **I'm a legend** **Road To 100k Credit** **Tfa7thebest** **I'm gonna kill you** **I'm The best** **Let spam ma nigga** **Fuck this shit** **Yea bb** **Magic spam** **I'M NOT A SPAM BOT** **I LOVE PROBOT** **I'm a legend** **Road To 100k Credit** **Tfa7thebest** **I'm gonna kill you** **I'm The best** **Let spam ma nigga** **Fuck this shit** **Yea bb** **Magic spam** **I'M NOT A SPAM BOT** **I LOVE PROBOT** **I'm a legend** **Road To 100k Credit** **Tfa7thebest** **I'm gonna kill you** **I'm The best** **Let spam ma nigga** **Fuck this shit** **Yea bb** **Magic spam** **I'M NOT A SPAM BOT** **I LOVE PROBOT** **I'm a legend** **Road To 100k Credit** **Tfa7thebest** **I'm gonna kill you** **I'm The best** **Let spam ma nigga** **Fuck this shit** **Yea bb** **Magic spam** **I'M NOT A SPAM BOT** **I LOVE PROBOT** **I'm a legend** **Road To 100k Credit** **Tfa7thebest** **I'm gonna kill you** **I'm The best** **Let spam ma nigga** **Fuck this shit** **Yea bb** **Magic spam** **I'M NOT A SPAM BOT** **I LOVE PROBOT** **I'm a legend** **Road To 100k Credit** **Tfa7thebest** **I'm gonna kill you** **I'm The best** **Let spam ma nigga** **Fuck this shit** **Yea bb** **Magic spam** **I'M NOT A SPAM BOT** **I LOVE PROBOT** **I'm a legend** **Road To 100k Credit** **Tfa7thebest** **I'm gonna kill you** **I'm The best** **Let spam ma nigga** **Fuck this shit** **Yea bb** **Magic spam** **I'M NOT A SPAM BOT** **I LOVE PROBOT** **I'm a legend** **Road To 100k Credit** **Tfa7thebest** **I'm gonna kill you** **I'm The best** **Let spam ma nigga** **Fuck this shit** **Yea bb** **Magic spam** **END**`);
 }, 100)
 })
 
-
-client.on('message', message => {
-    if(message.content === 'check'){
-        message.channel.send('#rep @P4G_#4266')
-    }
-});
 
 
 
